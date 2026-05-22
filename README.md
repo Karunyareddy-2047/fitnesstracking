@@ -1,2 +1,3 @@
 # fitnesstracking
-my journey
+my journey will start from today
+
