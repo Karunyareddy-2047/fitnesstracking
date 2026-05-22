@@ -1,2 +1,2 @@
 # fitnesstracking
-my journey
+my journey from today
